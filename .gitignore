@@ -1,0 +1,4 @@
+# Project exclude paths
+/ustc_spring_aop/
+/ustc_spring_aop/target/
+/ustc_spring_ioc_anno/target/
